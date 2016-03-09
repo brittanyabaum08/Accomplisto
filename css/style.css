@@ -1,0 +1,68 @@
+.logo {
+	color:#000099;
+	padding: 20px;
+	font-family: 'Lato';
+	font-size: 50px;
+	float: left;
+	clear: both;
+}
+
+.nav-home li {
+	display: inline;
+	float: right;
+}
+
+.nav-button {
+	background:#ffffff;
+	color: #000099;
+	font-family: 'Lato';
+	text-transform: uppercase;
+	padding: 5px;
+	letter-spacing: 1px;
+	border-radius: 2px;
+	transition: background 0.5s, ease;
+}
+
+.nav-button:hover {
+	color: #ffffff;
+	background-color: #24A0FF;
+}
+
+.banner {
+	width: 100%;
+	max-height: 50%
+	background-color: #79C255;
+}
+
+.banner p {
+		font-family: 'Lato';
+		font-size: 20px;
+		max-height: 400px;
+		background-color: #79C255; 
+		text-align: center;
+		color:#ffffff;
+		text-transform: uppercase;
+		clear: both;
+
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	max-height: 400px;
+	float: left;
+	clear: both;
+}
+
+.footer {
+	background-color: #79C255;
+	font-family: "Lato";
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+.footericons li {
+	display: inline;
+}
+
